@@ -1,0 +1,12 @@
+name = "k01轻松聊"
+description = "可以在游戏里输入中文在内的多种语言 .\n国内玩家需要使用汉化补丁，否则此功能不会运行\nYY89856191章凡汉化"
+author = "贴吧风雨凌云制作"
+version = "1.1.1"
+forumthread = ""
+api_version = 10
+dst_compatible = true
+icon_atlas = "modicon.xml"
+icon = "modicon.tex"
+all_clients_require_mod = false
+client_only_mod = true
+server_filter_tags = {}

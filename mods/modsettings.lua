@@ -1,0 +1,92 @@
+--Use the "ForceEnableMod" function when developing a mod. This will cause the
+--game to load the mod every time no matter what, saving you the trouble of
+--re-enabling it from the main menu.
+
+--Note! You shout NOT do this for normal mod loading. Please use the Mods menu
+--from the main screen instead.
+
+--ForceEnableMod("kioskmode_dst")
+
+--Use "EnableModDebugPrint()" to show extra information during startup.
+
+--EnableModDebugPrint()
+
+--以上为原文件内容，mod启用请在下面修改。
+--为注释，不影响使用。
+--默认不启用任何mod
+--删除行前注释字符--即为启用
+--佩剑的兔子 制作。感谢使用！
+
+--ForceEnableMod("Advanced Farming"),	-- "DST Advanced Farming"
+--ForceEnableMod("c01-418604101"),	-- "c01蒸汽朋克科技"
+--ForceEnableMod("c02-488009136"),	-- "c02弓箭Mod"
+--ForceEnableMod("c03-404983266"),	-- "c03泡菜神器"
+--ForceEnableMod("c04-356435289"),	-- "c04鱼农场"
+--ForceEnableMod("c05-382177939"),	-- "c05地窖"
+--ForceEnableMod("c06-350811795"),	-- "c06传送戒指"
+--ForceEnableMod("d01-343762271"),	-- "d01全人物解锁"
+--ForceEnableMod("d02-380122571"),	-- "d02死神"
+--ForceEnableMod("d03-458365884"),	-- "d03异形"
+--ForceEnableMod("d12-373129667"),	-- "d12托马斯 [DST]"
+--ForceEnableMod("d13-366048578"),	-- "d13猎人德文!"
+--ForceEnableMod("d16-410902908"),	-- "d16悟空"
+--ForceEnableMod("d20-380079744"),	-- "d20路飞"
+--ForceEnableMod("d22-485291255"),	-- "d22死亡外科医生"
+--ForceEnableMod("d24-490153236"),	-- "d24托尼 - 乔巴"
+--ForceEnableMod("d25-454781545"),	-- "d25香吉士"
+--ForceEnableMod("d40-472803272"),	-- "d40普鲁露特"
+--ForceEnableMod("d41-493673961"),	-- "d41布子"
+--ForceEnableMod("d42-502031011"),	-- "Black Rock Shooter"
+--ForceEnableMod("d43-438211232"),	-- "d43亚丝娜"
+--ForceEnableMod("d44-498383066"),	-- "d44黑暗之女安妮"
+--ForceEnableMod("d45-431003525"),	-- "d45萌狮Saber!"
+--ForceEnableMod("e01-451559807"),	-- "e01地上洞穴扩展"
+--ForceEnableMod("e02-373480109"),	-- "e02坐标系统"
+--ForceEnableMod("e05-510956288"),	-- "e05腐烂箱"
+--ForceEnableMod("e08-444438334"),	-- "e08DJ的自动整理[DJPaul's Sort Inventory]"
+--ForceEnableMod("e10-375859599"),	-- "e10怪物显示血量"
+--ForceEnableMod("e11-358749986"),	-- "e11指示玩家位置"
+--ForceEnableMod("e12-462434129"),	-- "e12重生"
+--ForceEnableMod("e14-375850593"),	-- "e14五格装备栏"
+--ForceEnableMod("e15-365119238"),	-- "e15智能锅"
+--ForceEnableMod("e16-373991022"),	-- "e16地图显示玩家"
+--ForceEnableMod("e18-447092740"),	-- "e18更多动作"
+--ForceEnableMod("e19-458940297"),	-- "e19食物和武器属性"
+--ForceEnableMod("e21-363459814"),	-- "e21下线物品掉落"
+--ForceEnableMod("e22-362175979"),	-- "e22虫洞标记"
+--ForceEnableMod("e26-367304592"),	-- "e26芦苇可移植"
+--ForceEnableMod("e27-369083494"),	-- "e27树桩再生"
+--ForceEnableMod("Ear Character"),	-- "耳朵"
+--ForceEnableMod("Eli"),	-- "Eli"
+--ForceEnableMod("faker beta"),	-- "faker beta"
+--ForceEnableMod("Fast Travel(DST)"),	-- "Fast Travel"
+--ForceEnableMod("Freezer(DST)"),	-- "DST Freezer"
+--ForceEnableMod("fuhuochengfa"),	-- "删除复活惩罚"
+--ForceEnableMod("haohuahuodui"),	-- 'Deluxe Campfires 2.11'
+--ForceEnableMod("Health Regeneration"),	-- "Health Regeneration"
+--ForceEnableMod("Honoka"),	-- "Honoka"
+--ForceEnableMod("k01-367546858"),	-- "k01轻松聊"
+--ForceEnableMod("k02-376333686"),	-- "k02季节时钟"
+--ForceEnableMod("k03-345692228"),	-- "k03小地图"
+--ForceEnableMod("k04-351325790"),	-- "k04几何种植"
+--ForceEnableMod("k05-347360448"),	-- "k05地图显示牛"
+--ForceEnableMod("k07-356398534"),	-- "k07快速采集"
+--ForceEnableMod("k08-343753877"),	-- "k08状态宣告"
+--ForceEnableMod("kaijubeibao"),	-- "开局携带资源"
+--ForceEnableMod("Kotori 1.04(DST)"),	-- "Kotori"
+--ForceEnableMod("maki"),	-- "Maki"
+--ForceEnableMod("Mineable gems"),	-- "Mineable Gems"
+--ForceEnableMod("nico"),	-- "nico"
+--ForceEnableMod("Nozomi"),	-- "Nozomi"
+--ForceEnableMod("Resurrection Shelter"),	-- "DST Resurrection Shelter"
+--ForceEnableMod("Suika Ibuki"),	-- "Suika Ibuki"
+--ForceEnableMod("Tohsaka Rin"),	-- "Tohsaka Rin"
+--ForceEnableMod("tuzi"),	-- "Faroz Character 2.0"
+--ForceEnableMod("Umi"),	-- "Umi"
+--ForceEnableMod("Wilson's House(DST)"),	-- "DST Wilson's House"
+--ForceEnableMod("workshop-386360191"),	-- "PanFlute"
+--ForceEnableMod("workshop-398282218"),	-- "Craftable Krampus Sack"
+--ForceEnableMod("workshop-447911453"),	-- "Craftable Hollow Stump"
+--ForceEnableMod("workshop-481765222"),	-- "Ancient Altar"
+--ForceEnableMod("wupindiejia99"),	-- "Increased Stack size"
+--ForceEnableMod("xiyouwupin"),	-- "Craft Stuff"

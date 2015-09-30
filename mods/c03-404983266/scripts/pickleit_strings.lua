@@ -1,0 +1,314 @@
+STRINGS.NAMES.PICKLE = "腌制"
+
+-- Pickle Barrel
+
+STRINGS.NAMES.PICKLE_BARREL = "泡菜桶"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.PICKLE_BARREL_PICKLING = {	
+	"这需要一段时间来腌制", 
+	"发酵是需要一段时间的", 
+	"我要坚持，直到我的泡菜发酵完毕",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.PICKLE_BARREL_GENERIC = {	
+	"腌制食品需持续很长时间, 对吗?", 
+	"嗯, 咸菜佳品", 
+	"不要与匹克球混淆",
+	"供应三明治, 对吗?",
+}
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.PICKLE_BARREL = STRINGS.CHARACTERS.GENERIC.DESCRIBE.PICKLE_BARREL_GENERIC
+
+STRINGS.RECIPE_DESC.PICKLE_BARREL = "Pickle your food so it lasts longer!"
+
+-- Pickle Sword
+
+STRINGS.NAMES.PICKLE_SWORD = "黄瓜大宝剑"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.PICKLE_SWORD = {
+	"用你的大黄瓜重击敌人的菊花!",
+	"我的黄瓜比你大!",
+	"我的黄瓜已饥渴难耐!",
+}
+
+STRINGS.RECIPE_DESC.PICKLE_SWORD = "Whack your enemies with your pickle!"
+
+-- Beet
+
+STRINGS.NAMES.BEET = "甜菜"
+STRINGS.NAMES.BEET_COOKED = "烤甜菜"
+STRINGS.NAMES.BEET_SEEDS = "甜菜种子"
+STRINGS.NAMES.BEET_PICKLED = "腌甜菜"
+STRINGS.NAMES.BEET_PLANTED = "甜菜"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEET = {	
+	"事实: 熊吃甜菜. 熊, 甜菜, 太空堡垒卡拉狄加",
+	"没有人喜欢甜菜.也许我应该已经长大了.",
+	"让我们开个花园聚会.\n生菜 萝卜 这甜菜.",
+	"我可以腌制它!",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEET_COOKED = {	
+	"烤甜菜有种甜甜的淳朴风味", 
+	"甜度超过未烤过的甜菜", 
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEET_SEEDS = {	
+	"这是一粒种子.", 
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEET_PICKLED = {	
+	"我听到有人真的很喜欢腌甜菜.\n也许我应该给他们一个尝试.", 
+	"他们看上去真的很美味",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEET_PLANTED = {	
+	"看上去像个甜菜",
+}
+
+-- Berries
+
+STRINGS.NAMES.BERRIES_PICKLED = "腌浆果"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRIES_PICKLED = {
+	"腌浆果只需一点香料",
+	"这比奶酪还要棒",
+}
+
+-- Cabbage
+
+STRINGS.NAMES.CABBAGE = "卷心菜"
+STRINGS.NAMES.CABBAGE_COOKED = "烤卷心菜"
+STRINGS.NAMES.CABBAGE_SEEDS = "卷心菜种子"
+STRINGS.NAMES.CABBAGE_PICKLED = "酸菜"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.CABBAGE = {	
+	"一个叫卷心菜的伙计发明了电脑... \n不,等等,那是巴贝奇", 
+	"关于大而聪明的人的头",
+	"我听说孩子们在卷心菜周围挂着",
+	"我可以腌制它!",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.CABBAGE_COOKED = {	
+	"香脆可口", 
+	"制作很简单, 就是切片和烹饪", 
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.CABBAGE_SEEDS = {	
+	"这是一粒种子.", 
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.CABBAGE_PICKLED = {	
+	"我爷爷把酸菜放进了他的巧克力蛋糕里", 
+	"尝试用酸菜代替椰子在烘焙时",
+	"也被称为自由卷心菜",
+}
+
+-- Carrot
+
+STRINGS.NAMES.CARROT_PICKLED = "腌胡萝卜"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARROT_PICKLED = {	
+	"保质期比普通胡萝卜更久", 
+	"有些人喜欢胡萝卜，而有些人喜欢卷心菜.",
+}
+
+-- Corn
+
+STRINGS.NAMES.CORN_PICKLED = "腌玉米"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.CORN_PICKLED = {	
+	"保质期比普通玉米更长",
+	"当玉米得到称赞时说了什么?\n哎, 没事!",
+}
+
+-- Cucumber
+
+STRINGS.NAMES.CUCUMBER = "黄瓜"
+STRINGS.NAMES.CUCUMBER_COOKED = "烤黄瓜"
+STRINGS.NAMES.CUCUMBER_SEEDS = "黄瓜种子"
+STRINGS.NAMES.CUCUMBER_PICKLED = "泡菜"
+STRINGS.NAMES.CUCUMBER_GOLDEN_PICKLED = "黄金泡菜"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.CUCUMBER = {	
+	"看上去很繁琐很繁琐...", 
+	"我敢打赌这会做出一个好的泡菜", 
+	"我的黄瓜很酷炫",
+	"我应称他为推车的老汉",
+	"我可以腌制它!",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.CUCUMBER_COOKED = {	
+	"现在它永远也不会变成泡菜了", 
+	"尝起来就像是烤自来水", 
+	"可怜的推车老汉",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.CUCUMBER_SEEDS = {	
+	"它是一粒种子.", 
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.CUCUMBER_PICKLED = {	
+	"这是一个很好的泡菜", 
+	"为什么小黄瓜在傻笑!他们在选小姐",
+	"要是我有一个汉堡就可以把这个放在里面",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.CUCUMBER_GOLDEN_PICKLED = {	
+	"一个超级特殊的泡菜", 
+	"比普通泡菜要好太多太多!",
+}
+
+-- Egg
+
+STRINGS.NAMES.EGG_PICKLED = "咸蛋"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.EGG_PICKLED = {	
+	"我真的应该要吃这个吗?", 
+	"谁确定这是可以食用的?",
+}
+
+-- Eggplant
+
+STRINGS.NAMES.EGGPLANT_PICKLED = "腌茄子"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.EGGPLANT_PICKLED = {	
+	"保质期比普通茄子长",
+	"你不会偷一个苦茄子",
+}
+
+-- Fish
+
+STRINGS.NAMES.FISH_PICKLED = "咸鱼"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.FISH_PICKLED = {	
+	"哇, 这是辣的!", 
+	"抓个咸鱼，放进你的口袋",
+	"至少它不是臭鱼",
+}
+
+-- Mush
+
+STRINGS.NAMES.MUSH_PICKLED = "腌菜渣"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUSH_PICKLED = {	
+	"最好别吃这个", 
+	"腌制被遗忘了, 我猜", 
+}
+
+-- Mushroom
+
+STRINGS.NAMES.MUSHROOM_PICKLED = "腌蘑菇"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.MUSHROOM_PICKLED = {	
+	"为什么真菌离开了排队?\n没有蘑菇.", 
+	"为什么人们都喜欢蘑菇先生?\n因为它是一个真菌!",
+}
+
+-- Onion
+
+STRINGS.NAMES.ONION = "洋葱"
+STRINGS.NAMES.ONION_COOKED = "洋葱圈"
+STRINGS.NAMES.ONION_SEEDS = "洋葱种子"
+STRINGS.NAMES.ONION_PICKLED = "腌洋葱"
+STRINGS.NAMES.ONION_PLANTED = "洋葱"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.ONION = {	
+	"哪个SB在切洋葱?",
+	"怪物都喜欢洋葱",
+	"洋葱总是让我哭",
+	"我可以腌制它!",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.ONION_COOKED = {	
+	"如果你喜欢的话，你应该把洋葱圈放在上面",
+	"如果你听到一个洋葱圈跟你说话，请回答它",
+	"我想这使得我称为洋葱圈的霸主",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.ONION_SEEDS = {	
+	"它是一粒种子.", 
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.ONION_PICKLED = {	
+	"什么圆的, 白的, 和傻笑声?\n一个逗B洋葱!",
+	"美丽和灿烂...拉手网!",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.ONION_PLANTED = {	
+	"看，一个野生的洋葱!",
+}
+
+-- Potato
+
+STRINGS.NAMES.POTATO = "土豆"
+STRINGS.NAMES.POTATO_COOKED = "煎锅土豆"
+STRINGS.NAMES.POTATO_PLANTED = "土豆"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.POTATO = {	
+	"煮滚, 捣碎, 一直炖",
+	"我认为，要先放山药了",
+	"土豆去泰特美术馆",
+	"土豆是什么，宝贝?",
+	"什么有眼睛却看不见?\n土豆!",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.POTATO_COOKED = {	
+	"简单，快捷，美味的土豆", 
+	"美味的炸土豆", 
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.POTATO_PLANTED = {	
+	"如果我要那个土豆，我需要一把铲子",
+}
+
+-- Pigs Foot
+
+STRINGS.NAMES.PIGS_FOOT = "猪蹄"
+STRINGS.NAMES.PIGS_FOOT_COOKED = "猪肉皮"
+STRINGS.NAMES.PIGS_FOOT_PICKLED = "腌猪蹄"
+STRINGS.NAMES.PIGS_FOOT_DRIED = "猪蹄干"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGS_FOOT = {	
+	"可怜的威尔伯...",
+	"这只小猪不会再进入市场了",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGS_FOOT_COOKED = {	
+	"最好吃边看足球",
+	"一个用肉做的松脆点心!",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGS_FOOT_PICKLED = {	
+	"谁认为这是一个好主意?",
+	"我不认为即使是一个饥饿的猛兽会吃这个",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGS_FOOT_DRIED = {	
+	"好吃的猪蹄干...",
+}
+
+-- Pumpkin
+
+STRINGS.NAMES.PUMPKIN_PICKLED = "腌南瓜"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.PUMPKIN_PICKLED = {	
+	"彼得派珀腌出来了许多腌南瓜…错误，辣椒",
+	"南瓜最喜欢的运动是什么？?\n壁球!",
+}
+
+-- Radish
+
+STRINGS.NAMES.RADISH = "小萝卜"
+STRINGS.NAMES.RADISH_COOKED = "烤小萝卜"
+STRINGS.NAMES.RADISH_SEEDS = "小萝卜种子"
+STRINGS.NAMES.RADISH_PICKLED = "腌小萝卜"
+STRINGS.NAMES.RADISH_PLANTED = "小萝卜"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.RADISH = {	
+	"什么是小的，红色的，和耳语?\n哑哑萝卜!",
+	"这种蔬菜so diao!",
+	"我可以腌制它!",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.RADISH_COOKED = {	
+	"美味和健康",
+	"比生的萝卜更甜美柔软",
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.RADISH_SEEDS = {	
+	"它是一颗种子.", 
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.RADISH_PICKLED = {	
+	"甜，扑鼻，粉红色",
+	"这将使一个伟大的装饰"
+}
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.RADISH_PLANTED = {	
+	"这是一个小萝卜",
+}
+
+-- Watermelon
+
+STRINGS.NAMES.WATERMELON_PICKLED = "腌西瓜皮"
+
+STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATERMELON_PICKLED = {
+	"谁想到腌制西瓜皮?",
+	"比奶酪和饼干还要美味",
+}

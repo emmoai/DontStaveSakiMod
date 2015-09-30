@@ -1,0 +1,28 @@
+Version 1.03
+ - Network optimization.
+ - Fixed a bug with gear torch (finally).
+ - Icons of WS-01 and WS-03 now are not cached on minimap.
+
+Version 1.02
+ - Gear Mask renamed to Plague Doctor Mask
+ - Fixed a bug with gear torch in RoG.
+ - Starting health of WS-01 is 200 of 600.
+ - Starting health of WS-03 is 1600 of 2400.
+
+Version 1.01
+ - Added unique priority.
+ - Added mod tags.
+ - Fixed crash on death of WS-03.
+ - Fixed bug with fire resist of Gear Helmet.
+ - Fire resist of Gear Helmet is set to 50%.
+ - Now players can hit enemy's sentinels (pets of other players) with Ctrl+F like butterflies.
+ - Better and faster betray if old good master is found near sentinel.
+ - Ghost can't be owner of sentinel.
+ - Fixed a bug with deprecated GetPlayer() for WS-03.
+ - Sentinel will stop hitting the player after the player killed current owner of sentinel.
+ - Player can't be owner of sentinel for 20 seconds if he attacked it.
+ - New random sentinel phrases on actions.
+ - Fixed a crash on betray in non-RoG version (there is no TargetIs function in non-RoG).
+ - Fixed a bug with raining (it was ignored).
+ - Lightning strike resotres 200 hp for sentinel.
+ - WS-03 works as Lightning Rod.

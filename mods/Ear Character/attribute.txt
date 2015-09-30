@@ -1,0 +1,95 @@
+If you can't choose character, close smalltexture in game settings. 
+
+Ear's words:
+
+This mod is inspired by myself. 
+I like FOOD! Especially meat! So eating meat will have 5% chance to receive an upgrade for its maximum Sanity, Health, and Hunger. By the way, there are 20 levels in total. 
+I will run faster and hit harder at night because I am so afraid. 
+
+(The Pictures is selected from Gokou Ruri.) 
+
+Character Attributes
+
+Hunger	Lv1. 150 - Lv20. 250 
+Sanity	Lv1. 100 - Lv20. 250 
+Health	Lv1. 100 - Lv20. 250 
+
+in the day： 
+
+Damage multiplier：1.0x 
+Speed：0.9x 
+
+at dusk： 
+Damage multiplier：1.1x 
+Speed：1.0x 
+
+at night: 
+Damage multiplier：1.2x 
+Speed：1.1x 
+
+Leveling up will bring +50% sanity & health recovery 
+Eating any food has 2% chance +100% sanity & health recovery 
+
+Sanity drain +20% more (than Wilson) 
+
+Special item
+
+-Ear pretty dress : 
+has 6 slots and can fridge food 
++sanity(about 50% as walrus hat) 
+can be used for 15 days 
+
+-Ear pop: 
+speed：1.2x 
+damage 60 
+-30% hunger drain rate 
++sanity(about 50% as walrus hat by perish) 
+has 3% chance to drop other candy when attacking 
+can be used for 3 days 
+
+-Ear hat: 
+attacker will -34 health 
+can hide 
+waterproof 70% 
+Given 5 goldnuggets, hat can pick twigs, grass, etc. around. 
+
+Starting items
+
+-Ear pop 
+-Ear dress 
+
+
+描述 
+如果遇到選擇角色彈出遊戲 請關閉small texture 
+依然彈出 僅和操作系統有關 
+角色:技術女主播 耳朵 
+屬性: 
+吃肉類食物有5%幾率升級 20級滿 
+每次升級增加精神和血量(上限的50%) 
+吃任何食物有2%幾率回複滿精神和血量 
+基礎三圍 150饑餓 100精神 100血量 
+滿級三圍 250饑餓 250精神 250血量 
+白天 90%移動速度 100%攻擊力 
+黃昏 100%移動速度 110%攻擊力 
+夜晚 110%移動速度 120%攻擊力 
+默認精神降低速度提高20% 
+
+道具: 
+耳朵的連衣裙 屬性: 
+自帶6格小冰箱 
+精神恢複(海象帽的50%) 
+15天耐久(紅羽毛5 白羽毛2 黑羽毛9) 
+
+耳朵的棒棒糖 屬性: 
+提高移動速度20% 
+攻擊力 60點 拿著棒棒糖會減少30%饑餓度 
+根據保鮮度恢復精神 最高和連衣裙相同 
+攻擊怪物有3%幾率掉落好吃的糖果 
+3天耐久(蝴蝶翅膀5 樹枝2 蜂蜜9) 
+
+耳朵的魔法帽 屬性: 
+反射傷害34點 
+右鍵點擊可以隱藏自己(同漿果帽) 
+帽子防雨度70% 
+送给帽子5个金子 可以收集周围的草 树枝 浆果 
+無耐久(觸手皮5 活木2 暗影燃料9) 
